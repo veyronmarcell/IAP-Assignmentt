@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+>>>>>>> 273789ef8ef672d8474e96470bc8ec4fb23ee044
+    <mapping directory="$PROJECT_DIR$/Plugins/PHPMailer" vcs="Git" />
+  </component>
+</project>
